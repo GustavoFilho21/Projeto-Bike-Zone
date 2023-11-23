@@ -1,0 +1,62 @@
+body {
+  font-family: 'Manrope', sans-serif;
+}
+
+.navbar {
+  background-color: #D7D9dd;
+}
+
+#cabecalho .nav .nav-link.active {
+  background-color: #2F3A47;
+  color: #CEFD4A;
+}
+
+#cabecalho
+.nav .nav-link, 
+.navbar-brand, 
+.navbar-brand:hover {
+  color: #2F3A47;
+}
+
+.navbar-toggler {
+  background-color: #f3f3f6;
+  color: #2F3A47;
+}
+
+.section-title {
+  font-family: 'Syncopate', sans-serif;
+}
+
+#sobre-loja {
+  background-color: #f3f3f6;
+}
+
+#promocoes {
+  background-color: #2F3A47;
+}
+
+.text-colored {
+  color: #CEFD4A;
+}
+
+#promocoes .card-body {
+  background-color: #D7D9dd;
+  color: #2F3A47;
+}
+
+.nav-modelos .nav-link.active{
+  background-color: #2F3A47;
+  color: #CEFD4A;
+}
+
+.nav-modelos .nav-link:hover {
+  color: #CEFD4A;
+}
+
+#modelos {
+  background-color: #f3f3f6;
+}
+
+.social-links a {
+  text-decoration: none;
+}
